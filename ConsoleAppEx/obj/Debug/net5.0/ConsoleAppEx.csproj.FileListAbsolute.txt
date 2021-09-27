@@ -1,0 +1,16 @@
+C:\Users\nyks9\source\repos\ConsoleAppEx\ConsoleAppEx\bin\Debug\net5.0\ConsoleAppEx.exe
+C:\Users\nyks9\source\repos\ConsoleAppEx\ConsoleAppEx\bin\Debug\net5.0\ConsoleAppEx.deps.json
+C:\Users\nyks9\source\repos\ConsoleAppEx\ConsoleAppEx\bin\Debug\net5.0\ConsoleAppEx.runtimeconfig.json
+C:\Users\nyks9\source\repos\ConsoleAppEx\ConsoleAppEx\bin\Debug\net5.0\ConsoleAppEx.runtimeconfig.dev.json
+C:\Users\nyks9\source\repos\ConsoleAppEx\ConsoleAppEx\bin\Debug\net5.0\ConsoleAppEx.dll
+C:\Users\nyks9\source\repos\ConsoleAppEx\ConsoleAppEx\bin\Debug\net5.0\ref\ConsoleAppEx.dll
+C:\Users\nyks9\source\repos\ConsoleAppEx\ConsoleAppEx\bin\Debug\net5.0\ConsoleAppEx.pdb
+C:\Users\nyks9\source\repos\ConsoleAppEx\ConsoleAppEx\obj\Debug\net5.0\ConsoleAppEx.csproj.AssemblyReference.cache
+C:\Users\nyks9\source\repos\ConsoleAppEx\ConsoleAppEx\obj\Debug\net5.0\ConsoleAppEx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nyks9\source\repos\ConsoleAppEx\ConsoleAppEx\obj\Debug\net5.0\ConsoleAppEx.AssemblyInfoInputs.cache
+C:\Users\nyks9\source\repos\ConsoleAppEx\ConsoleAppEx\obj\Debug\net5.0\ConsoleAppEx.AssemblyInfo.cs
+C:\Users\nyks9\source\repos\ConsoleAppEx\ConsoleAppEx\obj\Debug\net5.0\ConsoleAppEx.csproj.CoreCompileInputs.cache
+C:\Users\nyks9\source\repos\ConsoleAppEx\ConsoleAppEx\obj\Debug\net5.0\ConsoleAppEx.dll
+C:\Users\nyks9\source\repos\ConsoleAppEx\ConsoleAppEx\obj\Debug\net5.0\ref\ConsoleAppEx.dll
+C:\Users\nyks9\source\repos\ConsoleAppEx\ConsoleAppEx\obj\Debug\net5.0\ConsoleAppEx.pdb
+C:\Users\nyks9\source\repos\ConsoleAppEx\ConsoleAppEx\obj\Debug\net5.0\ConsoleAppEx.genruntimeconfig.cache
